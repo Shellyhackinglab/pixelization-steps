@@ -3,7 +3,7 @@ Using python beginner tool "Turtle"
 
 in main file
 ---color-pixelization:
-1) Locate this program file and the image file you want it to be pixelized in the same directory.
+1) Locate this program file and the image file you want to be pixelized in the same directory.
 2) Customize line 11, sample.png to your file name.
 3) Customize line 30, select the stamp shape from ["turtle","circle","square"].
 4) Customize line 36, specify the stamp size.
