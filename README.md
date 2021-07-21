@@ -1,4 +1,4 @@
-# pixelization_steps
+# pixelization_app
 Using python beginner tool "Turtle graphics" [https://docs.python.org/3/library/turtle.html]
 
 in main file
