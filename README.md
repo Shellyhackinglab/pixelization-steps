@@ -1,5 +1,5 @@
 # pixelization_steps
-Using python beginner tool "Turtle" [https://docs.python.org/3/library/turtle.html]
+Using python beginner tool "Turtle graphics" [https://docs.python.org/3/library/turtle.html]
 
 in main file
 ---color-pixelization:
