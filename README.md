@@ -8,5 +8,5 @@ in main file
 3) Customize line 30, select the stamp shape from (“arrow”, “turtle”, “circle”, “square”, “triangle”, “classic”).
 4) Customize line 36, specify the stamp size.
 5) Customize line 44 & 45, change the third argument of the "for statement" as you like. It specify the space between each stamps.
-Depending on the adjustment of step4 and step5, the resolution may change or the stamps may be covered, so we need to take it into consideration.
+※Depending on the adjustment of step4 and step5, the resolution may change or the stamps may be covered, so we need to take it into consideration.
 6) run this program ---> $ python3 pixelization_app.py
